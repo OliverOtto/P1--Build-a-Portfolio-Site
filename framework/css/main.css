@@ -73,34 +73,48 @@ border: 0;
 height: 0.3em; 
 }
 
+#mainheader h1{
+	text-align: right;
+	font-weight: 100;
+}
+
+#mainheader h3{
+	text-align: right;
+}
+
 #portrait { 
 	/* float: right; */
 	width: 6em;
 	height: auto;
+	margin: 2em 1em 1em 2em;
 }
 
 #main { 
 	/* float: right; */
 	width: 35em;
 	height: auto;
+	margin: 0em 5em 0em 5em;
 } 
 
 #proj1 { 
 	/* float: right; */
 	width: 12em;
 	height: auto;
+	/*margin: 1em 1em 1em 1em;*/
 } 
 
 #proj2 { 
 	/* float: right; */
 	width: 12em;
 	height: auto;
+	/*margin: 1em 1em 1em 1em;*/
 } 
 
 #proj3 { 
 	/* float: right; */
 	width: 12em;
 	height: auto;
+	/*margin: 1em 1em 1em 1em;*/
 }  
 
 .row{
